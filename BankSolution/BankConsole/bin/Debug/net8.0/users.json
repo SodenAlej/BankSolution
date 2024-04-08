@@ -1,0 +1,26 @@
+[
+  {
+    "TaxRegime": "M",
+    "ID": 1,
+    "Name": "Hernan",
+    "Email": "soden@gmail.com",
+    "Balance": 1020000.0,
+    "RegisterDate": "2024-04-07T19:18:21.7232072-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 2,
+    "Name": "Rogelio",
+    "Email": "rog785@gmail.com",
+    "Balance": 159.12,
+    "RegisterDate": "2024-04-07T22:22:07.560722-06:00"
+  },
+  {
+    "TaxRegime": "M",
+    "ID": 3,
+    "Name": "Jimenez",
+    "Email": "jsdf482@yahoo.com",
+    "Balance": 7664.28,
+    "RegisterDate": "2024-04-07T22:27:17.3608967-06:00"
+  }
+]
